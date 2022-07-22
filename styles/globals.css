@@ -1,0 +1,75 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: linear-gradient(120deg, 	#0a37cb, #b44ae5 );
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+}
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+
+}
+
+
+.btn{
+  background: rgb(212, 204, 219);
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+
+  display: block;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.core{
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+.Net{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+ 
+.acc{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.balance{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.btn-{
+  background: rgb(212, 204, 219);
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+
+  display: block;
+  margin: auto;
+  margin-top: 5%;
+}
